@@ -136,6 +136,7 @@
                         <label for="" class="form-label">Repita Contraseña</label>
                       <input type="password" class="form-control" placeholder="Repita contraseña">
                     </div>
+			  
                     <div class="mb-3">
                         <label for="" class="form-label">Ubicación actual</label>
                           <select class="form-select" name="" id="">
